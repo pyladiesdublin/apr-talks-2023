@@ -24,6 +24,7 @@ I am a data scientist based in Dublin, Ireland. I have over three years of exper
  Partners
 We would like to thank the following:
 
+- [LinkedIn](https://careers.linkedin.com/Locations/Dublin): For hosting
 - [Coding Grace](https://codinggrace.com/): Streamyard for our virtual events
 - [PSF](https://www.python.org/psf-landing/): Meetup fees
 - [PyLadies](https://pyladies.com/)
