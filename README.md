@@ -12,8 +12,6 @@
 
 (30 minutes) The aim of this presentation is to illustrate the process of unit testing machine learning code using Python. Although unit testing is a familiar practice among software engineers, it is equally important for data scientists to employ it. The first segment of the talk will be a brief overview of the theory and objectives of unit testing. In the second part, I will provide practical examples of using pytest to test functions which relate to machine learning problems. I will demonstrate how to create a basic test for these types of functions, as well as a parameterized test, a mock, and a fixture.
 
-### Website URL
-
 ### About Joanna Lenczuk
 I am a data scientist based in Dublin, Ireland. I have over three years of experience in machine learning projects. I acquired my analytical and coding skills in areas such as e-commerce, insurance and utilities. Currently, I work as a data scientist at CKDelta - a fast-growing data innovation start-up. In my current role, I am responsible for developing ML models and implementing MLOps practices.
 
